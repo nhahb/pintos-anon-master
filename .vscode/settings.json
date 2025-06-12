@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "cstdint": "c",
+        "process.h": "c",
+        "directory.h": "c",
+        "inode.h": "c",
+        "typeinfo": "c"
+    }
+}
